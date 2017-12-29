@@ -6,6 +6,4 @@ It is built using `HTML5` and `Bootstrap`, and it is part of the [FreeCodeCamp](
 
 ## Copyright
 
-- © 2017 [The Green Belt Movement](http://www.greenbeltmovement.org/wangari-maathai/biography) for content & favicon.
-
-- © 2017 [Revista Madre Tierra](http://revistamadretierra.com/2015/11/wangari-maathai/) for Professor Maathai photograph.
+© 2017 [The Green Belt Movement](http://www.greenbeltmovement.org/wangari-maathai/biography) for content, favicon and Professor Maathai photograph.
