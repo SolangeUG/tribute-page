@@ -52,19 +52,26 @@ body {
 }
 
 .content-header {
-  position: relative;
-  float: right;
-  width: 100%;
+  position: fixed;
+  /* float: right; */
+  width: 50%;
   padding: 5px 0 5px 0;
   border-bottom: 2px solid #808B96;
-  height: 140px;
-  background: #FFF;
+  height: 160px;
+  /* background: #FFF; */
+  background: #196F3D;
+  margin-top: -30px;
+  margin-left: -10px;
+  z-index:10;
+  color: #ECF0F1;
 }
 
 .title {
   font-family: Merienda;
   text-align: center;
   font-size: 300%;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .content-inner {
@@ -72,6 +79,7 @@ body {
   width: 100%;
   position: relative;
   padding: 60px 0;
+  margin-top: 100px;
 }
 
 .row {
