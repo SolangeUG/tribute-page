@@ -92,3 +92,34 @@ body {
   width: 100%;
   margin: 60px 0 -30px;
 }
+
+@media only screen and (max-width: 1340px) {
+  #leftQuote {
+    margin-right: 10px;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  #leftQuote {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  #rightQuote {
+    /* display: none; */
+    margin-top: -10px;
+  }
+}
+
+@media only screen and (max-width: 936px) {
+  #rightQuote {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .title {
+    font-size: 260%;
+  }
+}
